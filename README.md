@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Divyyy
-- 👀 I’m interested in Game devloping and artificial intelligence
-- 🌱 I’m currently learning C!
-- 😊 I want to learn everything aout computers and various languages, I'hope i can!
+- 👀 I’m interested in computers
+- 🌱 I’m currently learning java and javascript!
 -🥲 currently I'm a noob coder
 - 😎you can contact on my email divam473@gmail.com
