@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Divyyy
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning java and javascript!
--🥲 currently I'm a noob coder
 - 😎you can contact on my email divam473@gmail.com
