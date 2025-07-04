@@ -1,4 +1,5 @@
 ### 👋 Hi there! I'm Divyyy
+### I'm learning MERN stack and Data science 
 
 ### 📈 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyyy&layout=compact&theme=radical)
