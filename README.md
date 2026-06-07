@@ -9,13 +9,6 @@ I'm passionate about technology, problem-solving, and continuously improving my 
 - 🌐 Building Full-Stack Applications
 - 🚀 Always curious, always learning
 
----
-
-### 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Divyyy&theme=dark)
-
----
 
 ### 🛠 Technologies & Tools
 
