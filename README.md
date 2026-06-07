@@ -13,7 +13,7 @@ I'm passionate about technology, problem-solving, and continuously improving my 
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyyy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyyy&layout=compact)
 
 ---
 
